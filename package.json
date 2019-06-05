@@ -21,13 +21,13 @@
     "@reason-native/console": "*",
     "@reason-native/pastel": "*",
     "@reason-native/rely": "*",
-    "@esy-ocaml/reason": ">= 3.4.0 < 3.5.0",
+    "@esy-ocaml/reason": "3.4.0",
     "refmterr": "*",
     "ocaml": "~3.6.0"
   },
   "devDependencies": {
     "@opam/merlin": "*",
-    "ocaml": "~4.6.0",
+    "ocaml": "4.6.10",
     "@opam/odoc": "*"
   }
 }
