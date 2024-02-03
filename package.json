@@ -23,11 +23,11 @@
     "@reason-native/rely": "*",
     "@esy-ocaml/reason": "3.4.0",
     "refmterr": "*",
-    "ocaml": "~4.6.0"
+    "ocaml": "~5.1.0"
   },
   "devDependencies": {
     "@opam/merlin": "*",
-    "ocaml": "4.6.10",
+    "ocaml": "5.1.1000",
     "@opam/odoc": "*"
   }
 }
